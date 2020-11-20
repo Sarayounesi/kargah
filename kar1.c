@@ -8,4 +8,5 @@
     scanf ("%d%d%d" , &a,&b,&c);
 g=a+b+c;
 s=a+c
+printf("finish");
 }
